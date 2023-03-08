@@ -2,12 +2,12 @@
 
 This repository consists of 5 exercices:
 
-1.Calculate the area of a circle
+1.Check if a string is a palindrome or not
 
-2.Calculate the factorial of a number
+2.Find the longest word in a sentence
 
-3.Find the maximum of three numbers
+3.Check if two strings are anagrams of each other
 
-4.Check if a number is prime or not
+4.Calculate the sum of two numbers
 
-5.Print the Fibonacci sequence
+5.Calculate the average of a list of numbers
